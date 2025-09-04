@@ -12,7 +12,7 @@
   
 ## 📂 Featured Projects  
 - 📘 [Bookstore Backend (ASP.NET)](https://github.com/nthgipit/bookstore)
-- 📘 [Fruit Website (ASP.NET)](https://github.com/nthgipit/webfruit)   
+- 📘 [Fruit Website (ASP.NET)](https://github.com/nthagipit/WebFruit)   
 - 🍔 [Food Safety API (Spring Boot)](https://github.com/nthgipit/food-delivery-springboot)
 
 ## 📫 Contact  
