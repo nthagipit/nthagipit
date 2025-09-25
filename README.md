@@ -1,12 +1,12 @@
 ## Hi ,I'm Nguyen Tho Ha 👋
 
-🎓 Student at **University of Technology and Education** | GPA: 3.56/4  
-💻 Passionate about Backend Development with **Java Spring Boot** and **ASP.NET**  
+🎓 Student at **University of Technology and Education**
+💻 Passionate about Backend Development with **Java Spring Boot** 
 🌱 Currently building personal projects with Spring Boot to strengthen my skills  
 
 ## 🚀 Skills  
 - **Languages**: Java, C#, SQL Server
-- **Frameworks**: Spring MVC, Spring Boot, ASP.NET MVC, ASP.NET Core
+- **Frameworks**: Spring MVC, Spring Boot, ASP.NET MVC, ASP.NET Core,Reactjs
 - **Databases**: MySQL, SQL Server  
 - **Tools**: Git, GitHub, Postman
   
