@@ -11,7 +11,8 @@
 - **Tools**: Git, GitHub, Postman
   
 ## 📂 Featured Projects  
-- 📘 [Bookstore Backend (ASP.NET)](https://github.com/nthgipit/bookstore)
+- 📘 [Bookstore (Spring Boot)](https://github.com/nthagipit/Shop_book_backend)
+- 📘 [Bookstore_App Backend (ASP.NET)](https://github.com/nthgipit/bookstore)
 - 📘 [Fruit Website (ASP.NET)](https://github.com/nthagipit/WebFruit)   
 - 🍔 [Food Safety API (Spring Boot)](https://github.com/nthgipit/food-delivery-springboot)
 
