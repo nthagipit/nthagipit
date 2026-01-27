@@ -5,7 +5,7 @@
 🌱 Currently building personal projects with Spring Boot to strengthen my skills  
 
 ## 🚀 Skills  
-- **Languages**: Java, PHP, Python
+- **Languages**: Java, PHP, Python, Javascript
 - **Frameworks**: Spring Boot, Laravel, Python, ReactJs
 - **Databases**: MySQL, SQL Server  
 - **Tools**: Git, GitHub, Postman
