@@ -6,14 +6,14 @@
 
 ## 🚀 Skills  
 - **Languages**: Java, C#, SQL Server
-- **Frameworks**: Spring MVC, Spring Boot, ASP.NET MVC, ASP.NET Core,Reactjs
+- **Frameworks**: Spring Boot, Laravel, Python, ReactJs
 - **Databases**: MySQL, SQL Server  
 - **Tools**: Git, GitHub, Postman
   
 ## 📂 Featured Projects  
 - 📘 [Bookstore (Spring Boot)](https://github.com/nthagipit/Shop_book_backend)
-- 📘 [Bookstore_App Backend (ASP.NET)](https://github.com/nthgipit/bookstore)
-- 📘 [Fruit Website (ASP.NET)](https://github.com/nthagipit/WebFruit)   
+- 📘 [Weather_dashboard(Python)](https://github.com/Pad2806/weather_project)
+- 📘 [Fruit Store (Laravel)](https://github.com/Pad2806/fruit-store)   
 - 🍔 [Food Safety API (Spring Boot)](https://github.com/nthgipit/food-delivery-springboot)
 
 ## 📫 Contact  
