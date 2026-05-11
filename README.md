@@ -6,7 +6,7 @@
 
 ## 🚀 Skills  
 - **Languages**: Java, PHP, Python, Javascript
-- **Frameworks**: Spring Boot, Laravel, Python, ReactJs
+- **Frameworks**: Spring Boot, Laravel, Fastapi, ReactJs
 - **Databases**: MySQL, SQL Server  
 - **Tools**: Git, GitHub, Postman
   
